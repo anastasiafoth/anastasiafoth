@@ -1,4 +1,4 @@
-# Hi, I'm Anastasia 👋
+# Hi, I'm Anastasia 
 
 I’m an **Aspiring Full-Stack Developer** with a background in **Fashion Design**, passionate about blending **creativity with technology**.
 
@@ -10,10 +10,7 @@ Since **August**, I’ve been learning **Python** at **Masterschool**, progressi
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 ---
 
