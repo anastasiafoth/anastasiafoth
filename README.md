@@ -19,7 +19,7 @@ Since **August**, I’ve been learning **Python** & **JavaScript** at **Mastersc
 
 ## 🌱 Currently Learning
 
-- JavaScript fundamentals & best practices  
+- React advanced & best practices  
 - Web development foundations  
 - Full-stack concepts
 
